@@ -27,5 +27,5 @@
 - Type in root project `npx expo run:android --device`
 
 
-### Demo
-![](app-demo.gif)
+### App Screen Share
+<img src="app-demo.gif" width="400" height="650">
