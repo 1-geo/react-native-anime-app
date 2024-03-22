@@ -1,6 +1,6 @@
 # React Native Anime App
 
-#### A React Native app consuming this [cool api](https://docs.api.jikan.moe/) to fetch anime characters. Functionalities included browse characters, search characters, favorite (persisted to memory not local storage).
+#### A React Native app consuming this [cool api](https://docs.api.jikan.moe/) to fetch anime characters. Functionalities included browse characters, search characters, favorite (persisted to memory not local storage).  Design architecture used `Component Composition` Component AnimeCard is used to render in browse data in Home and Search screens. Other screens used are Landing, and AnimeDetails(displays more info about the selected character).
 
 `Dependencies`:
 
