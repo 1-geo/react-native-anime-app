@@ -26,6 +26,8 @@
 - Connect physical device and make sure usb debugging mode is enabled.
 - Type in root project `npx expo run:android --device`
 
+### Improvements
+- Add local persistent storage option for favorites. Currently app is using in memory using Redux. 
 
 ### App Screen Share
 <img src="app-demo.gif" width="400" height="650">
